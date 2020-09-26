@@ -1,0 +1,4 @@
+{
+  "db": "mongodb://localhost:27017/myqbank20",
+  "port": "8080"
+}
